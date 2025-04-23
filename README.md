@@ -36,7 +36,6 @@ This Power BI dashboard is designed to provide the revenue management team with 
     *   Created a Matrix/Table ('Property by Key Metrics') to display detailed performance data for each hotel property.
     *   Added a Bar Chart to analyze 'Realisation % & ADR by Platform', showing how different booking platforms perform.
     *   Arranged visuals logically on the canvas, adding titles and formatting for clarity. Used shapes and text boxes for titles (e.g., "AtliQ Hospitality Dashboard") and sectioning if needed.
--   **Step 6: Publishing:** Published the completed report from Power BI Desktop to Power BI Service for sharing and collaboration with stakeholders.
 
 # Data Model Snapshot (Star Schema)
 
